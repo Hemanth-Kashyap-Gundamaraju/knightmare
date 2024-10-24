@@ -1,5 +1,6 @@
 # knightmare
 Do you like challenges
+Download godot to run the game.
 In this short game you need to overcome the obstacles to know your score.
 Use "a" or "<-" keys to move left.
 Use "d" or "->" keys to move right.
